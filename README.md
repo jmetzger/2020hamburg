@@ -1,5 +1,9 @@
 # 2020 MariaDB Galera Cluster Training Hamburg (Remote)
 
+## Read-Write-Split 
+
+https://www.percona.com/blog/2016/03/29/read-write-split-routing-performance-in-maxscale/
+
 ## Monitoring 
 
 https://galeracluster.com/library/documentation/monitoring-cluster.html
