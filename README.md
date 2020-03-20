@@ -4,6 +4,10 @@
 
 https://galeracluster.com/library/documentation/monitoring-cluster.html
 
+## maxscale 
+
+When a server that readwritesplit uses is put into maintenance mode, any ongoing requests are allowed to finish before the connection is closed
+
 ## Use performance schema for slow queries 
 
 performance_schema needs to be on:
